@@ -9,7 +9,6 @@ const About = () => {
             <div className='img-container'> 
                 <img
                     src='https://i.pinimg.com/564x/80/48/55/804855bd241e1459e64d80ad06836240.jpg'
-                    alt='Professor'
                     width='200'
                     height='200'
                 />
